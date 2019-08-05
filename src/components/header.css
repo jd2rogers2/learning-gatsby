@@ -1,0 +1,14 @@
+@-webkit-keyframes sailin {
+    0%   { background-position: left 0 bottom -3% }
+    100% { background-position: left 9999px bottom -3% }
+}
+
+@keyframes sailin {
+    0%   { background-position: left 0 bottom -3% }
+    100% { background-position: left 9999px bottom -3% }
+}
+
+#charles {
+    background: url(../images/charles.png) left -20% bottom 5% repeat-x;
+    animation: sailin 2000s linear infinite;
+}

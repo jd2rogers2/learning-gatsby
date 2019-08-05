@@ -1,0 +1,12 @@
+gatsby develop = localhost:8000
+gatsby build = optimized production build
+gatsby serve = html server (seems like what prod will use?)
+
++ what i did
+npm install -g gatsby-cli
+gatsby new gatsby-site
+
++ resources
+https://www.gatsbyjs.org/docs/quick-start/
+https://www.youtube.com/watch?v=b2H7fWhQcdE
+
