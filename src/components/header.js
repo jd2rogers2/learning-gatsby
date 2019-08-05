@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => {
       }
     }
   `);
-  const charles = images.charles.childImageSharp.fluid;
+  // const charles = images.charles.childImageSharp.fluid;
   const bostonjs = images.bostonjs.childImageSharp.fluid;
 
   // <div id="charles"><Img fluid={charles} /></div>
